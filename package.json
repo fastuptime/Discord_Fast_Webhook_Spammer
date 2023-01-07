@@ -1,0 +1,28 @@
+{
+  "name": "fast-webhook-spammer",
+  "version": "1.0.0",
+  "description": "Fast Webhook Spammer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "webhook",
+    "spammer",
+    "fast",
+    "spam",
+    "web",
+    "hook",
+    "webhook-spammer",
+    "webhook-spam",
+    "webhook-spammer-fast",
+    "webhook-spammer-fast-uptime"
+  ],
+  "author": "Can & FastUptime",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "readline-sync": "^1.4.10"
+  }
+}
